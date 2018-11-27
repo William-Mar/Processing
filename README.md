@@ -1,2 +1,4 @@
 # Processing
-some study experience in processing
+some fun with Processing language
+
+
